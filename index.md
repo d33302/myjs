@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 开始学习JS啦
 
 You can use the [editor on GitHub](https://github.com/d33302/myjs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
